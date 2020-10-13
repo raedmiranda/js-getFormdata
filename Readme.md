@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ component install raedmiranda/js-getformdata
+    $ npm install js-getformdata
 
 ## Example
 
