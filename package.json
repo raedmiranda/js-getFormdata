@@ -23,5 +23,13 @@
   "bugs": {
     "url": "https://github.com/raedmiranda/js-getformdata/issues"
   },
-  "homepage": "https://github.com/raedmiranda/js-getformdata#readme"
+  "homepage": "https://github.com/raedmiranda/js-getformdata#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "jquery": "^3.5.1",
+    "jsdom": "^16.4.0"
+  },
+  "devDependencies": {
+    "should": "^13.2.3"
+  }
 }
