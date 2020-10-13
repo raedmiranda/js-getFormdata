@@ -6,6 +6,7 @@ node_modules: package.json
 # Run the tests.
 test:
 	@./node_modules/.bin/mocha
+	@npm test
 
 # Phony targets.
 .PHONY: test

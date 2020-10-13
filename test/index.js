@@ -3,12 +3,11 @@ var should = require('should'),
 const jsdom = require('jsdom');
 const { beforeEach } = require('mocha');
 const { JSDOM } = jsdom;
+var getData = require('..')
 
 /**
  * Cases
  */
-
-var getData = require('..')
 
 describe('getData test', function () {
     beforeEach(function () {
